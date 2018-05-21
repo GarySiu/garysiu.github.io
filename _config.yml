@@ -2,3 +2,8 @@ title: Gary Siu's Project Roundup
 description: A quick portolio page
 show_downloads: false
 theme: jekyll-theme-slate
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
