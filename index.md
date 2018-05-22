@@ -19,5 +19,5 @@ MEAN stack sports session booking app
 
 ### Magnetic Tweets
 ![Magnetic Tweets screenshot](https://raw.githubusercontent.com/GarySiu/garysiu.github.io/master/assets/img/magnetic-tweets.png)
-Whimsical project that turns Twitter searches into interactive Fridge 
+Whimsical project that turns Twitter searches into Magnetic Poetry
 [code](https://github.com/GarySiu/GA-Final-Project) \| [demo](http://magnetictweets.bitballoon.com/)
